@@ -1,0 +1,6 @@
+supplier_id,supplier_name,contract_start,contract_end,rebate_type,rebate_condition,product_category,tier_1_threshold,tier_1_percentage,tier_2_threshold,tier_2_percentage,tier_3_threshold,tier_3_percentage,growth_target_percentage,mix_target_percentage,retention_period,flat_percentage
+1,ABC Electronics,2023-01-01,2023-12-31,Volume,volume_based,Electronics,50000,2,100000,3,200000,5,,,,,
+2,XYZ Appliances,2023-01-01,2023-12-31,Growth,growth_based,Appliances,100000,4,,,,,,10,,,
+3,123 Tools,2023-01-01,2023-12-31,Mix,mix_based,Tools,75000,3,,,,,,,,50,
+4,Best Furniture,2023-01-01,2023-12-31,Retention,retention_based,Furniture,,,,,,,,,90,2
+5,Tech Gadgets,2023-01-01,2023-12-31,Percentage,percentage_based,Gadgets,,,,,,,,,,,2.5
